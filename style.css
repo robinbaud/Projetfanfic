@@ -28,9 +28,9 @@
     width: 250px;
     height: 315px;
     margin: 0 auto;
-    margin-bottom: -200px;
+    margin-bottom: -350px;
     background: url(fille.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    
+    opacity: 100%;
 }
