@@ -23,6 +23,7 @@
     opacity: 0.4;
 }
 .affiche{
+    position: absolute;
     border: solid black 2px;
     display: block;
     width: 250px;
@@ -35,5 +36,4 @@
 }
 .affiche img{
     width: 100%;
-    opacity: 1;
 }
