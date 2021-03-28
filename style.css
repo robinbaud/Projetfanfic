@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Montserrat';
 }
 
 .navbar{
@@ -36,4 +37,9 @@
 }
 .affiche img{
     width: 100%;
+}
+
+h1{
+    text-align: center;
+    font-size: 2em;
 }
