@@ -92,3 +92,7 @@ img{
     margin-left: var(--mb-2);
     margin-right: var(--mb-2);
 }
+
+i{
+    color: black;
+}
