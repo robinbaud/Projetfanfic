@@ -29,8 +29,7 @@
     width: 250px;
     height: 315px;
     margin-top: -200px;
-    margin-left: auto;
-    margin-right: auto;
+    left: calc(50% - translateX(-50%));
     opacity: 100%;
     overflow: hidden;
 }
